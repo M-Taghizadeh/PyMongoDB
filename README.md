@@ -13,7 +13,7 @@ Classified as a NoSQL database program, MongoDB uses JSON-like documents
 - [Delete documents](#Delete-documents)
 - [Counts of document](#Counts-of-document)
 - [Sorting Document](#Sorting-Document)
-- [Pagination : Limit and Skip commands](#Pagination:Limit-and-Skip-commands)
+- [Pagination Limit and Skip commands](#Pagination:Limit-and-Skip-commands)
 - [$inc $set $rename $unset](#$inc-$set-$rename-$unset)
 - [$gt $lt $gte $lte](#$gt-$lt-$gte-$lte)
 - [BulkWrite](#bulkWrite)
